@@ -1,0 +1,27 @@
+{
+  "name": "rootmoney",
+  "version": "1.0.0",
+  "description": "Mobile app to manage your finances.",
+  "keywords": [
+    "rootMoney"
+  ],
+  "homepage": "https://github.com/Lilian-Mahut/rootMoney#readme",
+  "bugs": {
+    "url": "https://github.com/Lilian-Mahut/rootMoney/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lilian-Mahut/rootMoney.git"
+  },
+  "license": "ISC",
+  "author": "Lilian Mahut",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "expo": "^55.0.4",
+    "react-native-gesture-handler": "~2.30.0"
+  }
+}
